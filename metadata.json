@@ -1,0 +1,6 @@
+{
+  "name": "StudyQuiz AI",
+  "description": "Turn your study notes into smart interactive quizzes with AI weak-topic practice and instant scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
